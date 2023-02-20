@@ -2,7 +2,6 @@ dom_u_morya
 
 This is my first Django project and it created during completing Python courses.
 ![image](https://user-images.githubusercontent.com/116018998/200176650-66c081cc-a3f1-4cf0-bb67-7029123cd50e.png)
-Yes, and the next step of this project is layout)))
 
 
 This project is a platform for the sale of real estate, but it is not commercial and real transactions on it are impossible.
